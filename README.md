@@ -1,0 +1,2 @@
+# EglineaAnalytix
+configs for EglineaProject
